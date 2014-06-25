@@ -1,9 +1,10 @@
-body{
-    background-image: url("../img/road_new.jpg");
-    height: max-height auto;
-    width: max-width auto;
+body { 
+  background: url("../img/road_new.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-
 .spacing{
     height: 10px;
 }
