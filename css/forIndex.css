@@ -1,0 +1,36 @@
+body{
+    background-image: url("../img/road_new.jpg");
+    height: max-height auto;
+    width: max-width auto;
+}
+
+.spacing{
+    height: 10px;
+}
+
+.nav li{
+    display: inline;
+}
+
+.nav a{
+    padding: 8px 10px;
+    color: #5a5a5a;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #D1D1D1;
+    border-radius: 10px;
+}
+
+.topic{
+    min-height: 100%;
+    color: #EDEDED;
+    text-align: center;
+}
+
+.topic h1{
+    padding-top: 200px;
+    padding-right: 550px;
+}
+.topic p{
+    padding-right: 550px;
+}
